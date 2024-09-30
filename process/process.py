@@ -28,7 +28,7 @@ def get_current_time_with_offset() -> str:
 def create_json(document_to_send) -> dict:
     return {
         'timestamp': get_current_time_with_offset(),
-        'document': document_to_send,
+        'message': document_to_send,
         'priority': random.randint(MIN_PRIORITY, MAX_PRIORITY)
     }
 
