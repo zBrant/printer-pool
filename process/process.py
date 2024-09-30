@@ -6,6 +6,9 @@ from datetime import datetime, timezone, timedelta
 import random
 import sys
 
+MIN_PRIORITY = 0
+MAX_PRIORITY = 10
+
 def verify_args(arguments: list) -> list:
     if len(arguments) < 3:
         Helper.print_usage()
@@ -17,15 +20,16 @@ def verify_args(arguments: list) -> list:
 def is_to_send_message(r_value: float) -> bool:
     return r_value > random.random()
 
-def get_current_time_with_offset():
+def get_current_time_with_offset() -> str:
     utc_now = datetime.now(timezone.utc)
     custom_offset = timezone(timedelta(hours=-4))
     return str(utc_now.astimezone(custom_offset))
 
-def create_json(document_to_send):
+def create_json(document_to_send) -> dict:
     return {
         'timestamp': get_current_time_with_offset(),
-        'document': document_to_send
+        'document': document_to_send,
+        'priority': random.randint(MIN_PRIORITY, MAX_PRIORITY)
     }
 
 def main():
