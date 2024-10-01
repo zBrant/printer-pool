@@ -29,11 +29,11 @@ def close_connection(client_socket: socket.socket, client_address: str) -> None:
     client_socket.close()
     LogHandler.generic_log(f'Connection with client {client_address[0]}:{client_address[1]} closed')
 
-def handle_clients(client_socket: socket.socket, client_address: str) -> None:
+def handle_clients(client_socket: socket.socket, client_address: str, queue_size: int) -> None:
     try:
         request = client_socket.recv(1024)
         json_message = json.loads(request.decode('utf-8'))
-        documentHandler = DocumentHandler()
+        documentHandler = DocumentHandler(queue_size)
 
         if json_message['message'] == 'get file': Printer.send_message(documentHandler.get_document(), client_socket)
         else: documentHandler.add_to_docs_queue(json_message)
@@ -55,7 +55,7 @@ def run_server() -> None:
         while True:
             client_socket, client_address = server.accept()
             LogHandler.generic_log(f'Accepted connection from {client_address[0]}:{client_address[1]}')
-            threading.Thread(target=handle_clients, args=(client_socket,client_address)).start()
+            threading.Thread(target=handle_clients, args=(client_socket,client_address,m_value)).start()
     finally:
         server.close()
 
