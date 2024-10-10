@@ -1,4 +1,3 @@
-import integration.Buffer;
 import printer.Printer;
 
 import java.security.InvalidAlgorithmParameterException;
@@ -6,8 +5,8 @@ import java.security.InvalidAlgorithmParameterException;
 public class Main {
     public static void main(String[] args) throws InvalidAlgorithmParameterException {
         if (isArgsValid(args)) {
-            Printer printer = new Printer("Printer1", 0.1);
-            Buffer bufferFetcher = new Buffer(args[0], Integer.parseInt(args[1]));
+            Printer printer = new Printer("Printer1", 0.5);
+            printer.run(args[0], Integer.parseInt(args[1]), 1);
         }
     }
 

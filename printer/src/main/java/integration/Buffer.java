@@ -2,6 +2,7 @@ package integration;
 
 import lombok.Getter;
 import lombok.Setter;
+import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -15,30 +16,52 @@ public class Buffer {
     private Socket socket;
     private PrintWriter out;
     private BufferedReader in;
+    private String serverAddress;
+    private int port;
+    JSONObject json = createJson();;
+    String line = "";
 
     public Buffer(String serverAddress, int port) {
         this.socket = getSocket(serverAddress, port);
+        this.serverAddress = serverAddress;
+        this.port = port;
         this.in = getIn();
         this.out = getOut();
     }
 
-    public StringBuilder fetchDocument() {
+    public String fetchDocument() {
         try {
-            // Send request
-            out.println("GET /json");
+            // Abrir um novo socket a cada requisição
+            Socket socket = getSocket(serverAddress, port);
+            PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
+            BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 
-            // Receive document
+            // Criar o JSON e enviar a requisição
+            json = createJson();
+            out.println(json);
+
+            // Receber o documento
             StringBuilder document = new StringBuilder();
-            String line;
+            line = "";
             while ((line = in.readLine()) != null) {
                 document.append(line);
             }
 
-            return document;
+            // Fechar o socket e streams
+            in.close();
+            out.close();
+            socket.close();
 
+            return document.toString();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    private JSONObject createJson() {
+        JSONObject json = new JSONObject();
+        json.put("message", "get file");
+        return json;
     }
 
     private static Socket getSocket(String serverAddress, int port) {
