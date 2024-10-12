@@ -32,19 +32,26 @@ def create_json(document_to_send) -> dict:
         'priority': random.randint(MIN_PRIORITY, MAX_PRIORITY)
     }
 
+def getDocument() :
+    with open("./assets/document.txt", "r") as file:
+        lines = file.readlines()
+    return [line.strip() for line in lines]
+
 def main():
     args = sys.argv[1:]
     address, port, r_value = verify_args(args)
     buffer = Buffer(address, int(port), LogHandler())
-    while buffer.is_connected():
-        input_user = input('enter message: ')
-        json_to_send = create_json(input_user)
+    document = getDocument()
+
+    while buffer.is_connected() and len(document) > 0:
+        json_to_send = create_json(document.pop())
 
         if is_to_send_message(float(r_value)):
             buffer.send_message(json_to_send)
         else:
             LogHandler.generic_log('Error: message not sent')
             sleep(0.1) # 1 millisecond
+    buffer.disconnect()
 
 if __name__ == '__main__':
     main()
