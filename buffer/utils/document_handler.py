@@ -11,7 +11,8 @@ class DocumentHandler:
     def get_document(self) -> str:
         return self._queue.get()[self._MSG_POSITION_ON_TUPLE]
 
-    def add_to_docs_queue(self, json_message) -> None:
-        priority = (json_message['priority'])
+    def add_to_docs_queue(self, json_message, client_id: int) -> None:
+        priority = int(json_message['priority'])
         message =  { key: json_message[key] for key in json_message if key != 'priority' }
+        message['clientId'] = client_id
         self._queue.put(( priority, message ))
