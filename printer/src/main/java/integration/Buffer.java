@@ -1,13 +1,17 @@
 package integration;
 
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
 import lombok.Getter;
 import lombok.Setter;
+import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
+import java.nio.charset.StandardCharsets;
 
 @Setter
 @Getter
@@ -15,33 +19,47 @@ public class Buffer {
     private Socket socket;
     private PrintWriter out;
     private BufferedReader in;
+    private String serverAddress;
+    private int port;
+    JSONObject json = createJson();
 
     public Buffer(String serverAddress, int port) {
-        this.socket = getSocket(serverAddress, port);
+        this.socket = createSocket(serverAddress, port);
+        this.serverAddress = serverAddress;
+        this.port = port;
         this.in = getIn();
         this.out = getOut();
     }
 
-    public StringBuilder fetchDocument() {
+    public String fetchDocument() {
         try {
-            // Send request
-            out.println("GET /json");
+            out = new PrintWriter(socket.getOutputStream(), true);
+            in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 
-            // Receive document
-            StringBuilder document = new StringBuilder();
-            String line;
-            while ((line = in.readLine()) != null) {
-                document.append(line);
-            }
+            // Create the JSON and send the request
+            json = createJson();
+            out.println(json);
 
-            return document;
+            // Read the server's response
+            StringBuilder jsonResponse = receiveMessage(socket);
+            if (!JsonParser.parseString(String.valueOf(jsonResponse)).isJsonObject()) return "";
 
+            // Convert JSON to a Java object (using Gson)
+            JsonObject jsonObject = JsonParser.parseString(String.valueOf(jsonResponse)).getAsJsonObject();
+
+            return jsonObject.toString();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
-    private static Socket getSocket(String serverAddress, int port) {
+    private JSONObject createJson() {
+        JSONObject json = new JSONObject();
+        json.put("message", "get file");
+        return json;
+    }
+
+    private static Socket createSocket(String serverAddress, int port) {
         try {
             return new Socket(serverAddress, port);
         } catch (IOException e) {
@@ -53,7 +71,7 @@ public class Buffer {
         try {
             return new PrintWriter(socket.getOutputStream(), true);
         } catch (IOException e) {
-            throw new RuntimeException("Unable to establish connection with the out stream!");
+            throw new RuntimeException("Unable to establish connection with the output stream!");
         }
     }
 
@@ -61,7 +79,19 @@ public class Buffer {
         try {
             return new BufferedReader(new InputStreamReader(socket.getInputStream()));
         } catch (IOException e) {
-            throw new RuntimeException("Unable to establish connection with the in stream!");
+            throw new RuntimeException("Unable to establish connection with the input stream!");
         }
+    }
+
+    private static StringBuilder receiveMessage(Socket socket) throws IOException {
+        BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream(), StandardCharsets.UTF_8));
+        StringBuilder response = new StringBuilder();
+        String line;
+
+        // Read lines of the response
+        line = in.readLine();
+        response.append(line);
+
+        return response;
     }
 }

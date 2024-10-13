@@ -1,0 +1,771 @@
+
+Printer1 printed the process 1, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:12:05.179928-04:00
+Printer1 printed the process 1, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:12:05.384028-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:12:28-04:00
+Printer1 printed the process 2, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:13:37.481078-04:00
+Printer1 printed the process 2, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:37.482987-04:00
+Printer1 printed the process 2, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:13:37.888029-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:15:08.804079-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:15:07.990081-04:00
+Printer1 printed the process 3, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:15:06.868772-04:00
+Printer1 printed the process 3, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:15:07.377423-04:00
+Printer1 printed the process 3, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:15:07.479866-04:00
+Printer1 printed the process 1, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:12:49.760076-04:00
+Printer1 printed the process 2, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:13:36.768991-04:00
+Document lost
+Printer1 printed the process 2, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:13:36.972963-04:00
+Printer1 printed the process 2, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:13:36.870079-04:00
+Printer1 printed the process 3, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:15:05.250615-04:00
+Printer1 printed the process 3, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:15:05.145118-04:00
+Printer1 printed the process 3, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:15:04.228792-04:00
+Printer1 printed the process 3, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:15:04.838349-04:00
+Printer1 printed the process 3, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:15:05.042087-04:00
+Printer1 printed the process 1, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:12:27.999002-04:00
+Printer1 printed the process 1, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:12:27.999002-04:00
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:13:35.345024-04:00
+Printer1 printed the process 2, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:35.954048-04:00
+Printer1 printed the process 2, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:13:36.055329-04:00
+Printer1 printed the process 2, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:13:35.953086-04:00
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:12:49.045584-04:00
+Document lost
+Printer1 printed the process 3, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:15:01.800396-04:00
+Printer1 printed the process 2, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:34.838119-04:00
+Printer1 printed the process 3, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:15:00.886979-04:00
+Printer1 printed the process 3, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:15:00.988711-04:00
+Document lost
+Printer1 printed the process 1, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:12:48.841414-04:00
+Printer1 printed the process 3, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:14:59.973308-04:00
+Document lost
+Printer1 printed the process 3, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:14:58.959626-04:00
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:33.720911-04:00
+Printer1 printed the process 3, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:14:58.245919-04:00
+Document lost
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 1, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:12:27.489887-04:00
+Document lost
+Printer1 printed the process 1, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:12:27.794091-04:00
+Printer1 printed the process 1, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:12:48.535104-04:00
+Document lost
+Printer1 printed the process 3, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:14:56.824967-04:00
+Printer1 printed the process 2, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:13:33.213424-04:00
+Printer1 printed the process 2, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:13:33.415999-04:00
+Printer1 printed the process 3, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:14:56.520644-04:00
+Document lost
+Document lost
+Printer1 printed the process 2, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:13:31.791983-04:00
+Printer1 printed the process 2, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:32.096017-04:00
+Printer1 printed the process 3, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:14:53.982244-04:00
+Printer1 printed the process 3, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:14:53.982244-04:00
+Document lost
+Printer1 printed the process 3, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:14:53.372235-04:00
+Printer1 printed the process 3, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:52.764058-04:00
+Printer1 printed the process 3, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:14:52.764058-04:00
+Printer1 printed the process 1, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:12:47.417636-04:00
+Printer1 printed the process 3, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:14:52.356785-04:00
+Document lost
+Printer1 printed the process 2, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:13:30.574889-04:00
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:13:30.779904-04:00
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 1, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:12:47.011167-04:00
+Printer1 printed the process 2, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:13:29.762853-04:00
+Printer1 printed the process 3, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:14:51.235603-04:00
+Printer1 printed the process 3, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:14:50.319937-04:00
+Printer1 printed the process 3, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:14:50.726848-04:00
+Document lost
+Printer1 printed the process 2, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:29.557919-04:00
+Printer1 printed the process 3, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:14:49.406673-04:00
+Printer1 printed the process 2, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:13:29.557919-04:00
+Printer1 printed the process 3, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:14:48.798980-04:00
+Printer1 printed the process 3, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:49.203258-04:00
+Printer1 printed the process 1, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:12:45.895244-04:00
+Printer1 printed the process 2, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:13:29.557009-04:00
+Printer1 printed the process 3, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:14:48.188285-04:00
+Printer1 printed the process 3, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:14:46.667909-04:00
+Printer1 printed the process 3, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:14:46.973731-04:00
+Printer1 printed the process 1, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:12:45.896142-04:00
+Printer1 printed the process 3, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:14:46.261322-04:00
+Document lost
+Printer1 printed the process 1, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:12:05.590029-04:00
+Printer1 printed the process 1, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:12:08.236183-04:00
+Printer1 printed the process 1, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:12:08.338185-04:00
+Document lost
+Document lost
+Printer1 printed the process 2, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:13:28.437945-04:00
+Printer1 printed the process 3, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:14:44.840469-04:00
+Printer1 printed the process 3, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:14:44.434129-04:00
+Printer1 printed the process 3, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:14:44.434129-04:00
+Printer1 printed the process 2, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:13:27.729155-04:00
+Printer1 printed the process 3, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:14:42.914400-04:00
+Printer1 printed the process 3, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:14:43.118046-04:00
+Document lost
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:14:42.508341-04:00
+Document lost
+Printer1 printed the process 2, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:14:36.680455-04:00
+Printer1 printed the process 1, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:12:15.226759-04:00
+Document lost
+Printer1 printed the process 1, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:12:25.726444-04:00
+Printer1 printed the process 1, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:12:45.283451-04:00
+Printer1 printed the process 2, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:35.870863-04:00
+Printer1 printed the process 1, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:12:45.283451-04:00
+Printer1 printed the process 2, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:14:35.868949-04:00
+Printer1 printed the process 4, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:17:23.481013-04:00
+Printer1 printed the process 4, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:17:23.482037-04:00
+Printer1 printed the process 2, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:13:25.876612-04:00
+Document lost
+Printer1 printed the process 2, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:14:34.956132-04:00
+Printer1 printed the process 2, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:14:34.956132-04:00
+Printer1 printed the process 4, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:17:22.061158-04:00
+Document lost
+Printer1 printed the process 1, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:12:45.079952-04:00
+Printer1 printed the process 2, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:14:34.854293-04:00
+Printer1 printed the process 1, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:22.153823-04:00
+Document lost
+Printer1 printed the process 2, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:14:34.852292-04:00
+Printer1 printed the process 2, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:14:34.648792-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:13:22.051022-04:00
+Printer1 printed the process 4, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:17:20.332610-04:00
+Printer1 printed the process 4, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:17:20.129985-04:00
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:34.139013-04:00
+Printer1 printed the process 4, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:17:19.419589-04:00
+Printer1 printed the process 1, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:12:08.236183-04:00
+Printer1 printed the process 1, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:12:15.123716-04:00
+Printer1 printed the process 1, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:12:25.317928-04:00
+Printer1 printed the process 1, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:13:21.746021-04:00
+Printer1 printed the process 2, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:14:34.036461-04:00
+Printer1 printed the process 2, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:14:33.832449-04:00
+Printer1 printed the process 2, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:14:33.833462-04:00
+Document lost
+Printer1 printed the process 4, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:17:18.401357-04:00
+Document lost
+Printer1 printed the process 1, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:12:43.863147-04:00
+Document lost
+Printer1 printed the process 2, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:14:33.222574-04:00
+Printer1 printed the process 4, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:17:17.278324-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:13:19.922026-04:00
+Printer1 printed the process 4, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:17:14.232997-04:00
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 1, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:19.920101-04:00
+Printer1 printed the process 1, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:13:19.921015-04:00
+Document lost
+Printer1 printed the process 4, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:17:14.030588-04:00
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:32.408732-04:00
+Document lost
+Document lost
+Printer1 printed the process 4, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:17:14.028587-04:00
+Printer1 printed the process 2, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:14:32.004298-04:00
+Document lost
+Printer1 printed the process 1, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:13:19.413003-04:00
+Document lost
+Printer1 printed the process 4, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:17:13.010051-04:00
+Document lost
+Document lost
+Printer1 printed the process 4, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:17:12.097950-04:00
+Document lost
+Printer1 printed the process 4, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:17:12.200190-04:00
+Printer1 printed the process 4, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:17:12.301198-04:00
+Printer1 printed the process 1, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:13:19.006559-04:00
+Printer1 printed the process 1, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:13:19.109027-04:00
+Document lost
+Printer1 printed the process 2, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:14:31.593961-04:00
+Printer1 printed the process 2, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:14:31.491851-04:00
+Printer1 printed the process 2, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:14:31.492872-04:00
+Printer1 printed the process 4, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:17:11.892632-04:00
+Document lost
+Printer1 printed the process 4, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:17:11.281944-04:00
+Printer1 printed the process 2, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:14:30.576602-04:00
+Printer1 printed the process 2, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:14:30.984347-04:00
+Document lost
+Printer1 printed the process 2, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:14:30.678859-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:12:08.032185-04:00
+Printer1 printed the process 1, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:12:23.243434-04:00
+Printer1 printed the process 1, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:12:23.851230-04:00
+Printer1 printed the process 1, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:12:41.738160-04:00
+Printer1 printed the process 1, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:13:18.600417-04:00
+Printer1 printed the process 2, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:14:30.374413-04:00
+Printer1 printed the process 2, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:14:29.967583-04:00
+Printer1 printed the process 2, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:14:30.171213-04:00
+Printer1 printed the process 4, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:17:09.551106-04:00
+Printer1 printed the process 1, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:18.598504-04:00
+Printer1 printed the process 1, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:13:18.599416-04:00
+Printer1 printed the process 4, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:17:08.740489-04:00
+Printer1 printed the process 4, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:17:09.043620-04:00
+Printer1 printed the process 4, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:17:09.043620-04:00
+Printer1 printed the process 2, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:14:29.360267-04:00
+Printer1 printed the process 4, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:17:07.928492-04:00
+Printer1 printed the process 4, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:17:08.130048-04:00
+Printer1 printed the process 4, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:17:08.232501-04:00
+Printer1 printed the process 2, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:14:29.461411-04:00
+Document lost
+Printer1 printed the process 4, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:17:05.898874-04:00
+Printer1 printed the process 4, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:17:06.508563-04:00
+Printer1 printed the process 4, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:17:05.898874-04:00
+Document lost
+Printer1 printed the process 4, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:17:06.103966-04:00
+Printer1 printed the process 1, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:13:18.088999-04:00
+Printer1 printed the process 4, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:17:05.492551-04:00
+Printer1 printed the process 4, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:17:05.493570-04:00
+Document lost
+Printer1 printed the process 1, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:12:23.344544-04:00
+Printer1 printed the process 1, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:12:41.127603-04:00
+Printer1 printed the process 1, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:13:17.580914-04:00
+Printer1 printed the process 1, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:18.087011-04:00
+Printer1 printed the process 2, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:14:27.637070-04:00
+Printer1 printed the process 2, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:14:27.637070-04:00
+Printer1 printed the process 2, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:14:27.331988-04:00
+Printer1 printed the process 2, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:14:26.724069-04:00
+Document lost
+Printer1 printed the process 4, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:17:03.861917-04:00
+Printer1 printed the process 4, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:17:02.743495-04:00
+Printer1 printed the process 4, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:17:02.744494-04:00
+Document lost
+Printer1 printed the process 4, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:17:01.726867-04:00
+Printer1 printed the process 4, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:17:01.830020-04:00
+Printer1 printed the process 4, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:17:01.831043-04:00
+Printer1 printed the process 4, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:17:01.726867-04:00
+Printer1 printed the process 2, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:14:26.211204-04:00
+Printer1 printed the process 4, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:17:00.712561-04:00
+Printer1 printed the process 4, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:16:59.598784-04:00
+Printer1 printed the process 4, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:17:00.608949-04:00
+Printer1 printed the process 4, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:17:00.102969-04:00
+Printer1 printed the process 4, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:17:00.305141-04:00
+Document lost
+Printer1 printed the process 1, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:12:40.311175-04:00
+Document lost
+Printer1 printed the process 1, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:13:16.159145-04:00
+Printer1 printed the process 4, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:16:59.597872-04:00
+Printer1 printed the process 2, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:14:24.789897-04:00
+Printer1 printed the process 4, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:16:58.682252-04:00
+Printer1 printed the process 2, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:14:24.686954-04:00
+Document lost
+Printer1 printed the process 4, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:16:57.869589-04:00
+Printer1 printed the process 1, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:12:40.312287-04:00
+Printer1 printed the process 1, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:12:40.313202-04:00
+Printer1 printed the process 1, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:13:15.146872-04:00
+Printer1 printed the process 4, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:16:57.460274-04:00
+Printer1 printed the process 2, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:14:24.176859-04:00
+Document lost
+Printer1 printed the process 2, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:14:22.761056-04:00
+Printer1 printed the process 2, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:14:22.864056-04:00
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 4, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:16:53.811707-04:00
+Document lost
+Printer1 printed the process 1, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:12:22.937918-04:00
+Printer1 printed the process 1, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:13:14.233712-04:00
+Printer1 printed the process 2, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:14:21.647392-04:00
+Printer1 printed the process 4, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:16:53.100149-04:00
+Document lost
+Printer1 printed the process 2, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:14:21.241353-04:00
+Document lost
+Printer1 printed the process 4, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:16:51.474328-04:00
+Printer1 printed the process 4, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:16:51.576653-04:00
+Printer1 printed the process 4, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:16:51.780589-04:00
+Printer1 printed the process 1, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:12:39.499170-04:00
+Printer1 printed the process 1, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:13:13.726006-04:00
+Document lost
+Printer1 printed the process 4, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:16:50.151122-04:00
+Printer1 printed the process 4, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:16:50.456070-04:00
+Printer1 printed the process 4, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:16:50.557486-04:00
+Printer1 printed the process 2, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:19.721515-04:00
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:20.026721-04:00
+Printer1 printed the process 2, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:14:19.721515-04:00
+Document lost
+Printer1 printed the process 1, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:12:05.180939-04:00
+Document lost
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:12:07.829221-04:00
+Printer1 printed the process 1, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:12:13.404419-04:00
+Printer1 printed the process 1, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:12:13.404419-04:00
+Document lost
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:13:12.309037-04:00
+Printer1 printed the process 4, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:16:48.117656-04:00
+Printer1 printed the process 1, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:13:12.205958-04:00
+Printer1 printed the process 2, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:14:19.112110-04:00
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:18.606287-04:00
+Printer1 printed the process 2, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:14:18.809280-04:00
+Printer1 printed the process 4, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:16:46.395573-04:00
+Printer1 printed the process 4, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:16:46.192449-04:00
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:13:11.798033-04:00
+Document lost
+Printer1 printed the process 4, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:16:45.681861-04:00
+Printer1 printed the process 4, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:16:45.784856-04:00
+Printer1 printed the process 4, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:16:44.870013-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:12:22.226571-04:00
+Printer1 printed the process 1, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:13:11.492919-04:00
+Document lost
+Printer1 printed the process 4, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:16:43.549024-04:00
+Document lost
+Printer1 printed the process 4, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:16:41.931589-04:00
+Printer1 printed the process 4, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:16:42.032845-04:00
+Printer1 printed the process 4, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:16:42.134534-04:00
+Printer1 printed the process 2, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:14:15.672873-04:00
+Printer1 printed the process 2, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:14:15.774441-04:00
+Document lost
+Printer1 printed the process 2, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:14:15.469772-04:00
+Printer1 printed the process 4, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:16:39.999293-04:00
+Printer1 printed the process 1, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:13:10.780956-04:00
+Printer1 printed the process 2, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:14:15.162450-04:00
+Document lost
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:15.162450-04:00
+Printer1 printed the process 4, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:16:38.880450-04:00
+Printer1 printed the process 2, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:14:14.456262-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:12:37.872609-04:00
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 4, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:16:38.068343-04:00
+Printer1 printed the process 2, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:14:14.047053-04:00
+Printer1 printed the process 4, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:16:36.953741-04:00
+Printer1 printed the process 4, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:16:36.950620-04:00
+Document lost
+Printer1 printed the process 4, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:16:36.038635-04:00
+Printer1 printed the process 4, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:16:36.241377-04:00
+Document lost
+Printer1 printed the process 2, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:14:11.410890-04:00
+Printer1 printed the process 4, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:16:33.806075-04:00
+Printer1 printed the process 4, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:16:34.412846-04:00
+Printer1 printed the process 2, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:14:11.614817-04:00
+Document lost
+Printer1 printed the process 1, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:12:21.317068-04:00
+Document lost
+Document lost
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:14:11.307881-04:00
+Printer1 printed the process 4, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:16:32.380716-04:00
+Printer1 printed the process 4, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:16:32.482936-04:00
+Printer1 printed the process 4, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:16:32.277761-04:00
+Printer1 printed the process 4, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:16:31.970687-04:00
+Document lost
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 2, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:14:09.787270-04:00
+Printer1 printed the process 2, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:14:10.293253-04:00
+Printer1 printed the process 4, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:16:30.650513-04:00
+Document lost
+Printer1 printed the process 1, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:12:37.157261-04:00
+Document lost
+Printer1 printed the process 2, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:14:09.280232-04:00
+Printer1 printed the process 2, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:14:09.381890-04:00
+Printer1 printed the process 4, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:16:29.531558-04:00
+Printer1 printed the process 1, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:12:37.157261-04:00
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 2, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:08.669936-04:00
+Printer1 printed the process 1, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:13:08.644456-04:00
+Printer1 printed the process 2, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:14:08.669023-04:00
+Printer1 printed the process 1, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:12:07.018797-04:00
+Printer1 printed the process 1, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:12:12.492081-04:00
+Document lost
+Printer1 printed the process 1, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:13:08.034035-04:00
+Document lost
+Printer1 printed the process 4, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:16:27.602366-04:00
+Printer1 printed the process 2, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:14:07.755890-04:00
+Document lost
+Printer1 printed the process 1, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:06.717883-04:00
+Printer1 printed the process 1, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:13:07.224969-04:00
+Document lost
+Printer1 printed the process 4, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:16:23.547401-04:00
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:05.831745-04:00
+Printer1 printed the process 4, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:16:23.443547-04:00
+Printer1 printed the process 2, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:14:05.728863-04:00
+Document lost
+Document lost
+Printer1 printed the process 4, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:16:22.935801-04:00
+Printer1 printed the process 1, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:13:06.717883-04:00
+Printer1 printed the process 1, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:06.819922-04:00
+Document lost
+Printer1 printed the process 4, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:16:21.112366-04:00
+Document lost
+Printer1 printed the process 1, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:12:36.240337-04:00
+Document lost
+Document lost
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 4, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:16:18.274669-04:00
+Printer1 printed the process 4, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:16:17.360019-04:00
+Document lost
+Printer1 printed the process 2, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:14:03.290834-04:00
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:14:03.594945-04:00
+Printer1 printed the process 4, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:16:16.141632-04:00
+Printer1 printed the process 4, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:16:15.937751-04:00
+Printer1 printed the process 4, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:16:16.039687-04:00
+Printer1 printed the process 1, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:05.701026-04:00
+Printer1 printed the process 2, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:14:02.985924-04:00
+Printer1 printed the process 4, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:16:15.531627-04:00
+Printer1 printed the process 4, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:16:15.329173-04:00
+Document lost
+Document lost
+Printer1 printed the process 4, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:16:14.113770-04:00
+Document lost
+Printer1 printed the process 1, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:12:34.517175-04:00
+Document lost
+Printer1 printed the process 1, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:12:36.138120-04:00
+Document lost
+Document lost
+Printer1 printed the process 4, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:16:14.110713-04:00
+Printer1 printed the process 4, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:16:13.604834-04:00
+Document lost
+Printer1 printed the process 4, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:16:13.299866-04:00
+Document lost
+Printer1 printed the process 2, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:14:01.160039-04:00
+Printer1 printed the process 2, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:14:01.261039-04:00
+Printer1 printed the process 4, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:16:12.792807-04:00
+Document lost
+Printer1 printed the process 4, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:16:12.385658-04:00
+Printer1 printed the process 1, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:12:35.529952-04:00
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 4, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:16:11.170416-04:00
+Printer1 printed the process 4, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:16:10.865668-04:00
+Printer1 printed the process 4, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:16:10.460569-04:00
+Document lost
+Printer1 printed the process 4, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:16:08.536033-04:00
+Printer1 printed the process 1, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:13:04.782382-04:00
+Printer1 printed the process 2, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:14:00.037891-04:00
+Document lost
+Document lost
+Printer1 printed the process 4, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:16:08.433679-04:00
+Printer1 printed the process 2, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:14:00.037891-04:00
+Printer1 printed the process 1, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:04.577704-04:00
+Printer1 printed the process 1, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:13:04.578705-04:00
+Document lost
+Printer1 printed the process 1, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:13:04.681051-04:00
+Printer1 printed the process 3, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:16:00.470621-04:00
+Document lost
+Printer1 printed the process 3, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:15:59.859246-04:00
+Printer1 printed the process 2, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:58.816864-04:00
+Printer1 printed the process 3, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:15:58.542295-04:00
+Printer1 printed the process 3, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:15:59.250857-04:00
+Printer1 printed the process 3, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:15:58.541302-04:00
+Printer1 printed the process 2, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:13:58.206839-04:00
+Printer1 printed the process 2, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:58.815950-04:00
+Printer1 printed the process 3, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:15:56.819026-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:15:57.224622-04:00
+Printer1 printed the process 3, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:15:57.325634-04:00
+Document lost
+Printer1 printed the process 3, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:15:56.714862-04:00
+Printer1 printed the process 3, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:15:56.817026-04:00
+Printer1 printed the process 3, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:15:55.192615-04:00
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:12:19.590253-04:00
+Document lost
+Printer1 printed the process 1, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:13:02.044245-04:00
+Document lost
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:13:57.696956-04:00
+Printer1 printed the process 3, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:15:54.784947-04:00
+Printer1 printed the process 3, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:15:54.579611-04:00
+Printer1 printed the process 2, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:13:56.880921-04:00
+Document lost
+Printer1 printed the process 3, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:15:53.057322-04:00
+Printer1 printed the process 1, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:13:01.942451-04:00
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:13:56.069872-04:00
+Printer1 printed the process 3, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:15:51.939490-04:00
+Document lost
+Printer1 printed the process 3, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:15:52.751931-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:15:52.344932-04:00
+Document lost
+Printer1 printed the process 3, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:15:49.807629-04:00
+Printer1 printed the process 3, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:15:51.226950-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:12:19.691169-04:00
+Printer1 printed the process 1, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:13:00.725076-04:00
+Document lost
+Printer1 printed the process 2, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:13:55.659467-04:00
+Printer1 printed the process 3, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:15:49.397959-04:00
+Printer1 printed the process 2, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:13:55.353813-04:00
+Printer1 printed the process 3, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:15:48.080288-04:00
+Document lost
+Printer1 printed the process 3, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:15:47.875282-04:00
+Printer1 printed the process 3, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:15:47.877235-04:00
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:13:00.520973-04:00
+Document lost
+Printer1 printed the process 3, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:15:46.959450-04:00
+Printer1 printed the process 3, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:15:46.960361-04:00
+Printer1 printed the process 3, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:15:45.944795-04:00
+Printer1 printed the process 3, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:15:46.248034-04:00
+Printer1 printed the process 2, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:13:53.221465-04:00
+Printer1 printed the process 2, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:13:53.628376-04:00
+Printer1 printed the process 2, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:13:53.628376-04:00
+Printer1 printed the process 3, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:15:45.639229-04:00
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 2, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:13:53.525124-04:00
+Document lost
+Printer1 printed the process 3, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:15:44.222670-04:00
+Document lost
+Printer1 printed the process 3, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:15:44.019742-04:00
+Document lost
+Printer1 printed the process 1, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:12:10.670100-04:00
+Printer1 printed the process 1, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:12:18.478996-04:00
+Printer1 printed the process 1, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:12:33.196471-04:00
+Document lost
+Printer1 printed the process 1, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:12:59.507032-04:00
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:52.815916-04:00
+Printer1 printed the process 2, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:13:52.814889-04:00
+Printer1 printed the process 3, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:15:42.595635-04:00
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:13:52.104093-04:00
+Document lost
+Printer1 printed the process 3, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:15:42.290701-04:00
+Printer1 printed the process 1, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:12:58.187096-04:00
+Printer1 printed the process 2, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:13:51.393058-04:00
+Printer1 printed the process 2, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:51.597307-04:00
+Printer1 printed the process 2, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:13:51.598289-04:00
+Printer1 printed the process 3, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:15:41.066737-04:00
+Document lost
+Document lost
+Document lost
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:12:18.274630-04:00
+Document lost
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:50.276829-04:00
+Printer1 printed the process 2, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:13:49.767057-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:12:31.655141-04:00
+Document lost
+Printer1 printed the process 3, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:15:35.184482-04:00
+Printer1 printed the process 3, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:15:35.388359-04:00
+Document lost
+Printer1 printed the process 3, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:15:34.272714-04:00
+Printer1 printed the process 3, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:15:34.272714-04:00
+Printer1 printed the process 2, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:13:48.650919-04:00
+Printer1 printed the process 1, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:12:05.384947-04:00
+Document lost
+Printer1 printed the process 1, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:12:30.842470-04:00
+Printer1 printed the process 1, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:12:31.148077-04:00
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:12:56.760984-04:00
+Printer1 printed the process 3, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:15:32.547979-04:00
+Document lost
+Printer1 printed the process 1, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:12:56.760984-04:00
+Printer1 printed the process 2, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:13:47.840290-04:00
+Printer1 printed the process 1, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:12:56.253867-04:00
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:13:47.029059-04:00
+Printer1 printed the process 3, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:15:29.712679-04:00
+Document lost
+Printer1 printed the process 3, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:15:29.712679-04:00
+Printer1 printed the process 1, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:12:31.147163-04:00
+Document lost
+Printer1 printed the process 1, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:12:56.252986-04:00
+Printer1 printed the process 2, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:13:46.926971-04:00
+Document lost
+Printer1 printed the process 2, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:13:45.002122-04:00
+Document lost
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:13:45.812335-04:00
+Printer1 printed the process 3, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:15:28.086755-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:15:27.883725-04:00
+Printer1 printed the process 3, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:15:26.462798-04:00
+Printer1 printed the process 3, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:15:27.475549-04:00
+Printer1 printed the process 1, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:12:17.563883-04:00
+Document lost
+Printer1 printed the process 1, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:12:54.735132-04:00
+Printer1 printed the process 3, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:15:25.854844-04:00
+Printer1 printed the process 3, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:15:26.462798-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:15:25.854844-04:00
+Printer1 printed the process 3, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:15:24.942557-04:00
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:12:54.530129-04:00
+Printer1 printed the process 1, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:12:54.531041-04:00
+Document lost
+Printer1 printed the process 3, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:15:24.533662-04:00
+Printer1 printed the process 2, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:13:43.075908-04:00
+Document lost
+Document lost
+Document lost
+Document lost
+Printer1 printed the process 3, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:15:22.199561-04:00
+Document lost
+Printer1 printed the process 3, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:15:23.514846-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:12:17.156913-04:00
+Printer1 printed the process 1, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:12:17.359888-04:00
+Printer1 printed the process 1, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:12:29.524931-04:00
+Printer1 printed the process 1, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:12:29.727030-04:00
+Printer1 printed the process 3, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:15:19.967161-04:00
+Document lost
+Printer1 printed the process 2, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:13:42.056907-04:00
+Document lost
+Printer1 printed the process 3, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:15:19.459928-04:00
+Printer1 printed the process 1, with message: Be yourself; everyone else is already taken. â€“ Oscar Wilde, at 2024-10-13 14:12:52.907264-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:15:18.039996-04:00
+Document lost
+Document lost
+Printer1 printed the process 3, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:15:18.242684-04:00
+Document lost
+Printer1 printed the process 3, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:15:17.333603-04:00
+Document lost
+Printer1 printed the process 2, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:13:41.142846-04:00
+Printer1 printed the process 3, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:15:15.712892-04:00
+Printer1 printed the process 3, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:15:14.803952-04:00
+Printer1 printed the process 3, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:15:14.803952-04:00
+Printer1 printed the process 3, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:15:14.803952-04:00
+Printer1 printed the process 2, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:13:39.926965-04:00
+Printer1 printed the process 3, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:15:14.697810-04:00
+Document lost
+Printer1 printed the process 3, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:15:14.085932-04:00
+Printer1 printed the process 3, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:15:14.190562-04:00
+Printer1 printed the process 1, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:12:50.978147-04:00
+Printer1 printed the process 1, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:12:51.487957-04:00
+Printer1 printed the process 2, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:13:39.315013-04:00
+Printer1 printed the process 3, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:15:13.477817-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:15:11.143513-04:00
+Printer1 printed the process 3, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:15:12.359169-04:00
+Printer1 printed the process 3, with message: Dream big and dare to fail. â€“ Norman Vaughan, at 2024-10-13 14:15:11.143513-04:00
+Printer1 printed the process 3, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:15:12.053105-04:00
+Printer1 printed the process 1, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:12:51.485958-04:00
+Document lost
+Printer1 printed the process 3, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:15:10.633018-04:00
+Document lost
+Printer1 printed the process 2, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:13:37.991002-04:00
+Document lost
+Document lost
+Printer1 printed the process 3, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:15:09.414995-04:00
+Printer1 printed the process 3, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:15:09.414995-04:00
+Document lost
+Document lost
+Printer1 printed the process 3, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:15:08.297303-04:00
+Printer1 printed the process 3, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:15:08.398349-04:00
+Printer1 printed the process 1, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:12:50.774419-04:00
+Printer1 printed the process 3, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:15:07.988084-04:00
+Document lost
+Printer1 printed the process 3, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:15:07.885011-04:00
+Document lost
+Printer1 printed the process 2, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:37.378993-04:00
+Printer1 printed the process 2, with message: Happiness is not something ready-made. It comes from your own actions. â€“ Dalai Lama, at 2024-10-13 14:13:37.277076-04:00
+Printer1 printed the process 3, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:15:06.970835-04:00
+Printer1 printed the process 2, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:36.974005-04:00
+Printer1 printed the process 3, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:15:05.756915-04:00
+Printer1 printed the process 1, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:12:28.202975-04:00
+Printer1 printed the process 3, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:15:05.655329-04:00
+Document lost
+Document lost
+Printer1 printed the process 3, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:15:05.144209-04:00
+Document lost
+Printer1 printed the process 3, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:15:05.040710-04:00
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:13:36.461031-04:00
+Printer1 printed the process 2, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:13:36.562495-04:00
+Printer1 printed the process 2, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:13:35.953086-04:00
+Printer1 printed the process 3, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:15:02.812858-04:00
+Printer1 printed the process 1, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:12:27.999002-04:00
+Document lost
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:35.345024-04:00
+Document lost
+Printer1 printed the process 2, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:13:35.142917-04:00
+Printer1 printed the process 3, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:15:01.596838-04:00
+Printer1 printed the process 3, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:15:01.090798-04:00
+Printer1 printed the process 2, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:13:34.838119-04:00
+Printer1 printed the process 2, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:13:34.636030-04:00
+Printer1 printed the process 2, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:34.737119-04:00
+Printer1 printed the process 3, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:15:00.683268-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:15:00.582157-04:00
+Printer1 printed the process 1, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:12:48.841414-04:00
+Printer1 printed the process 2, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:34.635033-04:00
+Printer1 printed the process 3, with message: Life is really simple, but we insist on making it complicated. â€“ Confucius, at 2024-10-13 14:14:59.872609-04:00
+Printer1 printed the process 3, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:14:59.264100-04:00
+Printer1 printed the process 3, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:14:59.568884-04:00
+Printer1 printed the process 2, with message: Live as if you were to die tomorrow; learn as if you were to live forever. â€“ Mahatma Gandhi, at 2024-10-13 14:13:34.633014-04:00
+Printer1 printed the process 3, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:14:58.958724-04:00
+Printer1 printed the process 3, with message: Education is the most powerful weapon you can use to change the world. â€“ Nelson Mandela, at 2024-10-13 14:14:58.856644-04:00
+Printer1 printed the process 2, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:33.923589-04:00
+Document lost
+Document lost
+Printer1 printed the process 3, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:14:57.735932-04:00
+Printer1 printed the process 2, with message: The true sign of intelligence is not knowledge but imagination. â€“ Albert Einstein, at 2024-10-13 14:13:33.822056-04:00
+Printer1 printed the process 3, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:14:57.229968-04:00
+Document lost
+Document lost
+Printer1 printed the process 2, with message: The only way to do great work is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:33.314999-04:00
+Document lost
+Printer1 printed the process 3, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:14:56.215777-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:12:47.725109-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:12:47.418546-04:00
+Document lost
+Document lost
+Printer1 printed the process 1, with message: The future belongs to those who believe in the beauty of their dreams. â€“ Eleanor Roosevelt, at 2024-10-13 14:12:47.417636-04:00
+Printer1 printed the process 1, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:12:16.242752-04:00
+Document lost
+Document lost
+Printer1 printed the process 2, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:13:30.779000-04:00
+Printer1 printed the process 2, with message: Life is 10% what happens to us and 90% how we react to it. â€“ Charles R. Swindoll, at 2024-10-13 14:13:30.779000-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:14:51.947827-04:00
+Printer1 printed the process 2, with message: Life is like riding a bicycle: to keep your balance, you must keep moving. â€“ Albert Einstein, at 2024-10-13 14:13:30.270969-04:00
+Printer1 printed the process 3, with message: The time you enjoy wasting is not wasted time. â€“ Marthe Troly-Curtin, at 2024-10-13 14:14:50.828937-04:00
+Printer1 printed the process 3, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:14:50.829850-04:00
+Printer1 printed the process 3, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:14:50.725938-04:00
+Document lost
+Printer1 printed the process 1, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:12:15.632153-04:00
+Printer1 printed the process 1, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:12:47.010245-04:00
+Printer1 printed the process 2, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:13:29.762853-04:00
+Document lost
+Printer1 printed the process 2, with message: Success usually comes to those who are too busy to be looking for it. â€“ Henry David Thoreau, at 2024-10-13 14:13:29.558921-04:00
+Document lost
+Printer1 printed the process 1, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:12:15.632153-04:00
+Document lost
+Printer1 printed the process 3, with message: You must be the change you wish to see in the world. â€“ Mahatma Gandhi, at 2024-10-13 14:14:47.176354-04:00
+Printer1 printed the process 1, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:12:46.199126-04:00
+Printer1 printed the process 1, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:12:26.371301-04:00
+Document lost
+Printer1 printed the process 2, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:13:28.438993-04:00
+Printer1 printed the process 2, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:13:28.335943-04:00
+Printer1 printed the process 1, with message: The only way to do a good job is to love what you do. â€“ Steve Jobs, at 2024-10-13 14:12:26.269195-04:00
+Document lost
+Printer1 printed the process 1, with message: The best and most beautiful things in the world cannot be seen or even touched, but must be felt with the heart. â€“ Helen Keller, at 2024-10-13 14:12:15.631106-04:00
+Printer1 printed the process 3, with message: It doesnâ€™t matter how many times you fail, you only have to be right once. â€“ Mark Cuban, at 2024-10-13 14:14:42.913518-04:00
+Printer1 printed the process 3, with message: The only thing we have to fear is fear itself. â€“ Franklin D. Roosevelt, at 2024-10-13 14:14:42.913518-04:00
+Printer1 printed the process 3, with message: Donâ€™t count the days, make the days count. â€“ Muhammad Ali, at 2024-10-13 14:14:42.914400-04:00
+Document lost
+Document lost
+Printer1 printed the process 2, with message: What does not kill us makes us stronger. â€“ Friedrich Nietzsche, at 2024-10-13 14:13:26.816511-04:00
+Printer1 printed the process 2, with message: The only limit to our realization of tomorrow is our doubts and hesitations today. â€“ Franklin D. Roosevelt, at 2024-10-13 14:13:26.816511-04:00
+Printer1 printed the process 1, with message: Persistence is the path to success. â€“ Charlie Chaplin, at 2024-10-13 14:12:45.486152-04:00
+Document lost
+Printer1 printed the process 2, with message: If you can dream it, you can do it. â€“ Walt Disney, at 2024-10-13 14:14:35.870863-04:00
+Printer1 printed the process 2, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:14:35.871872-04:00
+Document lost
+Printer1 printed the process 2, with message: The greatest risk is not taking any risk. â€“ Mark Zuckerberg, at 2024-10-13 14:13:26.006430-04:00
+Printer1 printed the process 4, with message: Success is going from failure to failure without losing enthusiasm. â€“ Winston Churchill, at 2024-10-13 14:17:23.482985-04:00
+Printer1 printed the process 1, with message: You cannot change your past, but you can change your future. â€“ Unknown, at 2024-10-13 14:12:15.328579-04:00
+Printer1 printed the process 4, with message: Success is not the key to happiness. Happiness is the key to success. â€“ Albert Schweitzer, at 2024-10-13 14:17:23.480026-04:00
+Printer1 printed the process 2, with message: Do not wait for extraordinary opportunities; seize common occasions and make them great. â€“ Orison Swett Marden, at 2024-10-13 14:14:35.463981-04:00
+Printer1 printed the process 2, with message: Life is what happens while you are busy making other plans. â€“ John Lennon, at 2024-10-13 14:14:35.160396-04:00
+Printer1 printed the process 2, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:14:35.462984-04:00
+Printer1 printed the process 4, with message: Life is either a daring adventure or nothing. â€“ Helen Keller, at 2024-10-13 14:17:22.973431-04:00
+
+--- Log Summary ---
+Total printed documents: 542
+Total lost documents: 219
+Prints per client:
+Client 1: 138 prints
+Client 2: 158 prints
+Client 3: 141 prints
+Client 4: 105 prints

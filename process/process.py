@@ -18,7 +18,7 @@ def verify_args(arguments: list) -> list:
     return [arg for arg in arguments]
 
 def is_to_send_message(r_value: float) -> bool:
-    return r_value > random.random()
+    return r_value < random.random()
 
 def get_current_time_with_offset() -> str:
     utc_now = datetime.now(timezone.utc)
