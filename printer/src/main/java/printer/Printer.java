@@ -8,7 +8,6 @@ import org.json.JSONObject;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Date;
 import java.util.HashMap;
 import java.util.Random;
 import java.util.concurrent.Executors;
@@ -43,6 +42,7 @@ public class Printer {
 
         while (isBufferConnected(buffer) && System.currentTimeMillis() - startTime < duration) {
             String document = String.valueOf(buffer.fetchDocument());
+            if (document.isEmpty()) break;
             writeLog(document, lossProbability);
         }
         printerLog += generateSummary();
@@ -51,7 +51,6 @@ public class Printer {
 
     // Writes a log entry and updates print or loss counters
     public void writeLog(String doc, double lossProbability) {
-        Date resultDate = new Date(System.currentTimeMillis());
         generateRandom = random.nextDouble();
         if (lossProbability > generateRandom) {
             lostDocuments++;  // Increment lost document counter
