@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) throws InvalidAlgorithmParameterException {
         if (isArgsValid(args)) {
             Printer printer = new Printer("Printer1", 0.5);
-            printer.run(args[0], Integer.parseInt(args[1]), 1);
+            printer.run(args[0], Integer.parseInt(args[1]), 0.05);
         }
     }
 
@@ -14,4 +14,5 @@ public class Main {
         if (args.length > 1) return true;
         throw new InvalidAlgorithmParameterException("Invalid arguments.");
     }
+
 }
