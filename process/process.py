@@ -1,4 +1,4 @@
-from integration.buffer import Buffer
+from integration.ActiveMQ import ActiveMQ
 from utils.helper import Helper
 from utils.log_handler import LogHandler
 from time import sleep
@@ -40,18 +40,18 @@ def getDocument() :
 def main():
     args = sys.argv[1:]
     address, port, r_value = verify_args(args)
-    buffer = Buffer(address, int(port), LogHandler())
+    activeMQ = ActiveMQ(address, int(port), LogHandler())
     document = getDocument()
 
-    while buffer.is_connected() and len(document) > 0:
+    while activeMQ.is_connected() and len(document) > 0:
         json_to_send = create_json(document.pop())
 
         if is_to_send_message(float(r_value)):
-            buffer.send_message(json_to_send)
+            activeMQ.send_message(json_to_send)
         else:
             LogHandler.generic_log('Error: message not sent')
             sleep(0.1) # 1 millisecond
-    buffer.disconnect()
+    activeMQ.disconnect()
 
 if __name__ == '__main__':
     main()

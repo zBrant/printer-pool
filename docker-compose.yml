@@ -7,6 +7,7 @@ services:
     ports:
       - "8161:8161"  # Porta web
       - "61616:61616"  # Porta do broker
+      - "61613:61613" # Porta do STOMP
     environment:
       - ACTIVEMQ_USER=admin
       - ACTIVEMQ_PASSWORD=admin
