@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  activemq:
+    image: rmohr/activemq
+    container_name: activemq
+    ports:
+      - "8161:8161"  # Porta web
+      - "61616:61616"  # Porta do broker
+    environment:
+      - ACTIVEMQ_USER=admin
+      - ACTIVEMQ_PASSWORD=admin
+    restart: always
