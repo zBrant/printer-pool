@@ -28,7 +28,7 @@ class ActiveMQ:
     def send_message(self, msg: dict) -> None:
         try:
             if not self._client.is_connected: raise Exception('ActiveMQ is not connected')
-            self._client.send(body=str(msg), destination='/queue/queue-1')
+            self._client.send(body=str(msg).encode(), destination='/queue/queue-1')
             self._log_handler.generic_log('Message sent to activeMQ')
         except Exception as e:
             self._log_handler.generic_log(f'ERROR: {e.args}')

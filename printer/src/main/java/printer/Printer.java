@@ -1,13 +1,20 @@
 package printer;
 
-import integration.Buffer;
 import lombok.Getter;
 import lombok.Setter;
+import org.apache.activemq.ActiveMQConnectionFactory;
+import org.apache.activemq.command.ActiveMQBytesMessage;
 import org.json.JSONObject;
 
+import javax.jms.Connection;
+import javax.jms.Destination;
+import javax.jms.JMSException;
+import javax.jms.MessageConsumer;
+import javax.jms.Session;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Random;
 import java.util.concurrent.Executors;
@@ -24,29 +31,71 @@ public class Printer {
     String printerLog = "";  // Log of print events
     Random random = new Random();
     Double generateRandom;
-    private HashMap<Integer, Integer> clientPrintCount = new HashMap<>();  // Map of print counts per client
-
-    // Executor service for scheduling tasks
-    private ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
 
     public Printer(String name, double lossProbability) {
         this.name = name;
         this.lossProbability = lossProbability;
     }
 
-    // Main execution loop that processes documents from the buffer
-    public void run(String address, int port, double intervalMinutes) {
-        Buffer buffer = new Buffer(address, port);
-        double startTime = System.currentTimeMillis();
-        double duration = intervalMinutes * 60 * 1000;
+    public void run(long timeLimit) {
+        long endTime = System.currentTimeMillis() + timeLimit;
+        String brokerURL = "tcp://localhost:61616";
+        String queueName = "queue-1";
 
-        while (isBufferConnected(buffer) && System.currentTimeMillis() - startTime < duration) {
-            String document = String.valueOf(buffer.fetchDocument());
-            if (document.isEmpty()) break;
-            writeLog(document, lossProbability);
+        Connection connection = null;
+        Session session = null;
+
+        try {
+            ActiveMQConnectionFactory connectionFactory = new ActiveMQConnectionFactory(brokerURL);
+
+            connection = connectionFactory.createConnection();
+            connection.start();
+
+            session = connection.createSession(false, Session.AUTO_ACKNOWLEDGE);
+
+            Destination destination = session.createQueue(queueName);
+
+            MessageConsumer consumer = session.createConsumer(destination);
+
+            Connection finalConnection = connection;
+            Session finalSession = session;
+            consumer.setMessageListener(message -> {
+                try {
+                    if (System.currentTimeMillis() > endTime) {
+                        consumer.close();
+                        finalSession.close();
+                        finalConnection.close();
+                        printerLog += generateSummary();
+                        writeLogTxt(printerLog);
+                        System.out.println("Time limit reached. Consumer has stopped receiving messages.");
+                        System.exit(0);
+                    }
+                    if (message instanceof ActiveMQBytesMessage) {
+                        ActiveMQBytesMessage bytesMessage = (ActiveMQBytesMessage) message;
+                        byte[] byteData = new byte[(int) bytesMessage.getBodyLength()];
+                        bytesMessage.readBytes(byteData);
+
+                        String messageText = new String(byteData, StandardCharsets.UTF_8); // Convert bytes to String
+                        writeLog(messageText, lossProbability);
+                    }
+                } catch (JMSException e) {
+                    System.err.println("Error processing message: " + e.getMessage());
+                }
+            });
+            System.out.println("Consumer waiting for messages in queue: " + queueName);
+
+            System.in.read();
+
+        } catch (Exception e) {
+            System.err.println("Error in consumer: " + e.getMessage());
+        } finally {
+            try {
+                if (session != null) session.close();
+                if (connection != null) connection.close();
+            } catch (JMSException e) {
+                System.err.println("Error closing resources: " + e.getMessage());
+            }
         }
-        printerLog += generateSummary();
-        writeLogTxt(printerLog);
     }
 
     // Writes a log entry and updates print or loss counters
@@ -60,18 +109,13 @@ public class Printer {
 
             // Extract data from the JSON document
             JSONObject jsonObject = new JSONObject(doc);
-            int clientId = jsonObject.getInt("clientId");
             String message = jsonObject.getString("message");
             String timestamp = jsonObject.getString("timestamp");
 
             // Update print count for the given clientId
-            clientPrintCount.put(clientId, clientPrintCount.getOrDefault(clientId, 0) + 1);
 
             // Add a log entry in the required format
-            printerLog += String.format(
-                    "\n%s printed the process %d, with message: %s, at %s",
-                    this.name, clientId, message, timestamp
-            );
+            printerLog += "\nprinted the file: " + message + " at: " + timestamp;
 
             // Simulate print delay
             try {
@@ -91,21 +135,11 @@ public class Printer {
         }
     }
 
-    // Checks if the buffer is still connected
-    private static boolean isBufferConnected(Buffer buffer) {
-        return buffer.getSocket().isConnected();
-    }
-
     // Generates a summary of the print session
     private String generateSummary() {
         StringBuilder summary = new StringBuilder("\n\n--- Log Summary ---\n");
         summary.append("Total printed documents: ").append(printedDocuments).append("\n");
         summary.append("Total lost documents: ").append(lostDocuments).append("\n");
-        summary.append("Prints per client:\n");
-
-        clientPrintCount.forEach((clientId, count) ->
-                summary.append("Client ").append(clientId).append(": ").append(count).append(" prints\n")
-        );
 
         return summary.toString();
     }
